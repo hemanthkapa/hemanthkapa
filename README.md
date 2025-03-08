@@ -12,3 +12,4 @@
 └── 💼 Previously...
     ├── Grotjahn Lab @Scripps Research - Summer intern
     ├── Tilting Futures - Gap term
+shippin' at light speed :🌠

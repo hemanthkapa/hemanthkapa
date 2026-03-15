@@ -1,12 +1,13 @@
 ```bash
 👻 Hemanth Kapa
 ├── 🎓 Education
-│   ├── Sophomore majoring in computer science and neuroscience @dickinson college
+│   ├── Junior majoring in computer science and neuroscience @dickinson college
+|   ├── Next Genius Scholar  
 │   ├── Emergent Ventures Grantee
 ├── 📖 Research Interests
 │   ├── cryo-electron tomography
 │   ├── aging
-│   ├── startups
+│   ├── techbio
 ├── 💼 Current
 │   ├── Barad Lab @OHSU - intern
 │
